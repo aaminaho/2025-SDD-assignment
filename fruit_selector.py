@@ -1,5 +1,3 @@
-# 2025-SDD-assignment
-
 mysteryFruits = ["apple" , "banana", "blueberry", "kiwi", "mango", "orange", "peach", "pineapple", "raspberry", "strawberry"]
 selectedFruits = []
 counter = 0
